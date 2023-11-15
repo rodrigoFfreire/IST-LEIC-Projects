@@ -6,8 +6,8 @@ An index for all of my projects done for classes at IST
    * [Fundamentos da Programação](https://github.com/rodrigoFfreire/FP_22_23)  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; _(Intro to Programming)_
    * [Lógica da Programação](https://github.com/rodrigoFfreire/LP_22_23) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; _(Logical Programming)_
  * 2º Semester
-   * [Introdução aos Algoritmos e Estruturas de Dados](https://github.com/rodrigoFfreire/IAED_22_23) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; _(Intro to Algorithms and Data Structures)
-   * [Introdução à Arquitetura de Computadores](https://github.com/rodrigoFfreire/Projeto-IAC-22-23)_ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; _(Intro to Computer Architectures)_
+   * [Introdução aos Algoritmos e Estruturas de Dados](https://github.com/rodrigoFfreire/IAED_22_23) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; _(Intro to Algorithms and Data Structures)_
+   * [Introdução à Arquitetura de Computadores](https://github.com/rodrigoFfreire/Projeto-IAC-22-23) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; _(Intro to Computer Architectures)_
 
 ## Year 2
  * 1º Semester

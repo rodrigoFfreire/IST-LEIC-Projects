@@ -1,5 +1,5 @@
 # IST LEIC Projects
-An index for all of my projects done for classes at IST
+All of my projects done at IST compiled here
 
 ## Year 1
  * 1º Semester

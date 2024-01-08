@@ -12,5 +12,5 @@ All of my projects done at IST compiled here
 ## Year 2
  * 1º Semester
    * [Programação com Objetos](https://github.com/rodrigoFfreire/PO-23-24) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; _(Object-Oriented Programming)_
-   * Sistemas Operativos &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; _(Operating Systems)_
+   * [Sistemas Operativos](https://github.com/rodrigoFfreire/SO-23-24) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; _(Operating Systems)_
    * [Análise e Síntese de Algoritmos](https://github.com/rodrigoFfreire/ASA-23-24) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; _(Analysis and Synthesis of Algorithms)_

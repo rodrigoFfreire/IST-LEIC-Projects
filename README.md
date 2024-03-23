@@ -1,5 +1,5 @@
 # IST LEIC Projects
-All of my projects done at IST compiled here
+All of my CS projects done at IST compiled here
 
 ## Year 1
  * 1º Semester

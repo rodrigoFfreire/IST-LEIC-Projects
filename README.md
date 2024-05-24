@@ -16,4 +16,4 @@ All of my CS projects done at IST compiled here
    * [Análise e Síntese de Algoritmos](https://github.com/rodrigoFfreire/ASA-23-24) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; _(Analysis and Synthesis of Algorithms)_
  * 2nd Semester
    * [Interação-Pessoa Máquina](https://github.com/rodrigoFfreire/IPM-Bakeoffs) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; _(Human-Computer Interaction)_
-   * [Inteligência Artificial](https://github.com/rodrigoFfreire/IA-23-24) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; _(Artificial Intelligence)_
+   * [Inteligência Artificial](https://github.com/rodrigoFfreire/IArt-23-24) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; _(Artificial Intelligence)_

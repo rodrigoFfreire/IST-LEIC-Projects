@@ -17,3 +17,5 @@ All of my CS projects done at IST compiled here
  * 2nd Semester
    * [Interação-Pessoa Máquina](https://github.com/rodrigoFfreire/IPM-Bakeoffs) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; _(Human-Computer Interaction)_
    * [Inteligência Artificial](https://github.com/rodrigoFfreire/IArt-23-24) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; _(Artificial Intelligence)_
+   * [Probabilidade e Estatística](https://github.com/rodrigoFfreire/PE-23-24) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; _(Probability and Statistics)_
+   * [Base de Dados](https://github.com/rodrigoFfreire/BD-23-24) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; _(Databases)_

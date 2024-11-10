@@ -22,4 +22,4 @@ All of my CS projects done at IST compiled here
   
 ## Year 3
   * 1st Semester
-    * [Apredizagem](https://github.com/rodrigoFfreire/Apre-24-25) _(Machine Learning)_
+    * [Aprendizagem](https://github.com/rodrigoFfreire/Apre-24-25) _(Machine Learning)_

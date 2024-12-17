@@ -23,3 +23,4 @@ All of my CS projects done at IST compiled here
 ## Year 3
   * 1st Semester
     * [Aprendizagem](https://github.com/rodrigoFfreire/Apre-24-25) _(Machine Learning)_
+    * [Organização de Computadores](https://github.com/rodrigoFfreire/OC-24-25) _(Computer Organization)_

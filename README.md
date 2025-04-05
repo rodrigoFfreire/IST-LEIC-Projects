@@ -1,5 +1,4 @@
 # IST LEIC Projects
-All of my CS projects done at IST compiled here
 
 ## Year 1
  * 1st Semester
@@ -26,3 +25,9 @@ All of my CS projects done at IST compiled here
     * [Organização de Computadores](https://github.com/rodrigoFfreire/OC-24-25) _(Computer Organization)_
     * [Redes de Computadores](https://github.com/rodrigoFfreire/RC-24-25) _(Computer Networks)_
     * [Análise e Modelação de Sistemas](https://github.com/rodrigoFfreire/AMS-24-25) _(System Analysis and Modelling)_
+   
+  * 2nd Semester
+    * [Engenharia de Software](https://github.com/rodrigoFfreire/ES-24-25) _(Software Engineering)_
+    * [Sistemas Distribuídos](https://github.com/rodrigoFfreire/SD-24-25) _(Distributed Systems)_
+    * Computação Gráfica _(Computer Graphics)_
+    * Compiladores _(Compilers)_

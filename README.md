@@ -29,5 +29,5 @@
   * 2nd Semester
     * [Engenharia de Software](https://github.com/rodrigoFfreire/ES-24-25) _(Software Engineering)_
     * [Sistemas Distribuídos](https://github.com/rodrigoFfreire/SD-24-25) _(Distributed Systems)_
-    * Computação Gráfica _(Computer Graphics)_
-    * Compiladores _(Compilers)_
+    * [Computação Gráfica](https://github.com/rodrigoFfreire/CG-24-25) _(Computer Graphics)_
+    * [Compiladores](https://github.com/rodrigoFfreire/Comp-24-25) _(Compilers)_
